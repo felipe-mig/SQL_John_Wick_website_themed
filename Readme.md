@@ -15,12 +15,12 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 
 🔑 LOGIN Credentials:
 
-- USER: <i>admin</i>
-- PASSWORD: <i>admin</i>
+- User: <i>admin</i>
+- Password: <i>admin</i>
 
 
 
-♦️ <i>You will need a local server and import the database to display the website on your browser.</i> 
+♦️ You will need a local server and import the database to display the website on your browser. 
 
 ## ♦️ How to run a local server
 
