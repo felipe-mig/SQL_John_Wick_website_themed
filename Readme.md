@@ -20,6 +20,20 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 - Password: <i>admin</i>
 
 
+## 📷 Screenshots
+
+### index.php
+![Screenshot1](screenshots/Screenshot1.webp)
+
+![Screenshot2](screenshots/Screenshot3.webp)
+
+### login.php
+![Screenshot3](screenshots/Screenshot2.webp)
+
+### data.php
+![Screenshot3](screenshots/Screenshot4.webp)
+
+
 
 ♦️ You will need a local server and import the database to display the website on your browser. 
 
