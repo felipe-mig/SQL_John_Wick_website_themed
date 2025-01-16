@@ -23,7 +23,7 @@ C:\MAMP
 
 Steps to start the server:
 
-1. Start the server by running the ! MAMP.exe ! file.
+1. Start the server by running the <strong>MAMP.exe</strong> file.
 
 2. At the same directory level, look for the htdocs folder and remove it.
 
