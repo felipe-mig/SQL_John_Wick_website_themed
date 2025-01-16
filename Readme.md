@@ -1,12 +1,26 @@
+## 📄 Description
 
+This is a John Week themed website with a login to access the private side. 
 
--No frameworks
--No AI code
--Local content
+* No frameworks
+* No AI code
+* Local content
 
 The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect ratio.
 
-You will need a local server and import the database to display the website on your browser.
+## 🔐 Database Connection
+
+- User: <i>mri</i> 
+- Password: <i>password</i>
+
+LOGIN SECTION:
+
+- USER: <i>admin</i>
+- PASSWORD: <i>admin</i>
+
+
+
+♦️ You will need a local server and import the database to display the website on your browser. 
 
 ## How to run a local server
 
@@ -52,15 +66,6 @@ Steps to start the server:
 10. Browse the file on your computer and click on <strong>Go</strong>.
   
 
-DATABASE CONNECTION
 
-- User: <i>mri</i> 
-- Password: <i>password</i>
-
-
-LOGIN SECTION:
-
-- USER: <i>admin</i>
-- PASSWORD: <i>admin</i>
 
 
