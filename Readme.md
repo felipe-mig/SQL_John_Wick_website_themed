@@ -13,7 +13,7 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 - User: <i>mri</i> 
 - Password: <i>password</i>
 
-👤 LOGIN SECTION:
+👤 LOGIN Credentials:
 
 - USER: <i>admin</i>
 - PASSWORD: <i>admin</i>
