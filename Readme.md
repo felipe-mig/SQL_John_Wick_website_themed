@@ -24,7 +24,7 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 
 ## ♦️ How to run a local server
 
-You can use MAMP or XAMPP:
+You can use MAMP or XAMPP as free options:
 
 https://www.mamp.info/en/windows/
 
