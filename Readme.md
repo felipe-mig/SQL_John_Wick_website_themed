@@ -19,7 +19,7 @@ MAMP EXAMPLE (XAMPP works in the same way)
 
 If you followed the default installation parameters, the directory to run the local server should be on this path: 
 
-- C:\MAMP
+   C:\MAMP
 
 Steps to start the server:
 
@@ -54,13 +54,13 @@ Steps to start the server:
 
 DATABASE CONNECTION
 
-- User: mri 
-- Password: password
+- User: <i>mri</i> 
+- Password: <i>password</i>
 
 
 LOGIN SECTION:
 
-- USER: admin
-- PASSWORD: admin
+- USER: <i>admin</i>
+- PASSWORD: <i>admin</i>
 
 
