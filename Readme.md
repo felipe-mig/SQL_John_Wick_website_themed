@@ -1,8 +1,8 @@
 
 
-**No frameworks
-**No AI code
-**Local content
+-No frameworks
+-No AI code
+-Local content
 
 The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect ratio.
 
@@ -19,7 +19,7 @@ MAMP EXAMPLE (XAMPP works in the same way)
 
 If you followed the default installation parameters, the directory to run the local server should be on this path: 
 
-C:\MAMP
+- C:\MAMP
 
 Steps to start the server:
 
@@ -31,15 +31,15 @@ Steps to start the server:
 
 4. In your browser type the following URL: 
 
-  **127.0.0.1:80/phpMyAdmin5/
+  - 127.0.0.1:80/phpMyAdmin5/
 
 5. Go to home and look for the <strong>User accounts</strong> tab on the top nav bar.
 
 6. Click on <strong>Add user account</strong> and fill it with the following information: 
 
-  **User name: <i>mri</i>
-  **Host name: <i>localhost</i>
-  **Password: <i>password</i>
+  - User name: <i>mri</i>
+  - Host name: <i>localhost</i>
+  - Password: <i>password</i>
 
 7. Below, look for the <strong>global privileges</strong> label and set it to Check all.
 
@@ -54,13 +54,13 @@ Steps to start the server:
 
 DATABASE CONNECTION
 
-**User: 
-**Password: password
+- User: mri 
+- Password: password
 
 
 LOGIN SECTION:
 
-**USER: admin
-**PASSWORD: admin
+- USER: admin
+- PASSWORD: admin
 
 
