@@ -1,6 +1,6 @@
 ## 📄 Description
 
-This is a John Week themed website with a login to access the private side. 
+This is a John Wick theme website with a login to access the private side. 
 
 * No frameworks
 * No AI code
@@ -8,10 +8,11 @@ This is a John Week themed website with a login to access the private side.
 
 The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect ratio.
 
-## 🗃️ Database Connection
+## 🛢️ Database Connection
 
 - User: <i>mri</i> 
 - Password: <i>password</i>
+- Host: <i>localhost</i>
 
 🔑 LOGIN Credentials:
 
@@ -22,7 +23,7 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 
 ♦️ You will need a local server and import the database to display the website on your browser. 
 
-## ♦️ How to run a local server
+## 📒 How to run a local server
 
 You can use MAMP or XAMPP as free options:
 
@@ -38,9 +39,9 @@ If you followed the default installation parameters, the directory to run the lo
 
 Steps to start the server:
 
-1. Start the server by running the <strong>MAMP.exe</strong> file.
+1. Start the server by running the <strong>MAMP.exe</strong> file. Next, initiate the Apache Server and MySQL Server if they don't do it automatically
 
-2. At the same directory level, look for the <strong>htdocs</strong> folder and remove it.
+2. At the same directory level where MAMP.exe is located, look for the <strong>htdocs</strong> folder and delete it.
 
 3. Replace the removed <strong>htdocs</strong> folder for the one on this project.
 
