@@ -77,9 +77,9 @@ Steps to start the server:
 
    In this case:  <i>johnwick.sql</i>
 
-9. Once it is done, go to the recently created database. On the top nav bar look for the <strong>Import</strong> tab.
+9. Once it is done, go to the recently created database. Next, on the top nav bar look for the <strong>Import</strong> tab.
 
-10. Browse the file on your computer and click on <strong>Go</strong>.
+10. Browse the SQL file on your computer and click on <strong>Go</strong>.
   
 
 
