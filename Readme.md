@@ -8,7 +8,7 @@ This is a John Week themed website with a login to access the private side.
 
 The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect ratio.
 
-## 🔐 Database Connection
+## 🗃️ Database Connection
 
 - User: <i>mri</i> 
 - Password: <i>password</i>
