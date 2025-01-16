@@ -27,6 +27,7 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 You can use MAMP or XAMPP:
 
 https://www.mamp.info/en/windows/
+
 https://www.apachefriends.org/
 
 MAMP EXAMPLE (XAMPP works in the same way)
