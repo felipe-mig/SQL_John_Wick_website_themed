@@ -20,9 +20,9 @@ The website is optimized for a 15.6" 1920 x 1080 display with a 16:9 aspect rati
 
 
 
-♦️ You will need a local server and import the database to display the website on your browser. 
+♦️ <i>You will need a local server and import the database to display the website on your browser.</i> 
 
-## How to run a local server
+## ♦️ How to run a local server
 
 You can use MAMP or XAMPP:
 
@@ -30,7 +30,7 @@ https://www.mamp.info/en/windows/
 
 https://www.apachefriends.org/
 
-MAMP EXAMPLE (XAMPP works in the same way)
+MAMP EXAMPLE (XAMPP works in the same way):
 
 If you followed the default installation parameters, the directory to run the local server should be on this path: 
 
